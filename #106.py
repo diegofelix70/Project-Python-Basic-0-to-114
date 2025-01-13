@@ -1,4 +1,4 @@
-#Faça um mini=sistema que utilize o interactive gilp do python. O usuário vai digitar o comando e o manual vai aparecer. Quando o usuário digitar a palavra fum, o programa se encerrará.
+#Faça um mini-sistema que utilize o interactive gilp do python. O usuário vai digitar o comando e o manual vai aparecer. Quando o usuário digitar a palavra fum, o programa se encerrará.
 
 # Base do programa
 
