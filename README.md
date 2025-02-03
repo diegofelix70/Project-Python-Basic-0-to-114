@@ -1,10 +1,9 @@
+🌎 [EN] version
 # Python Exercises 🐍
 
 This repository contains **114 exercises** that I developed while learning Python. Each exercise covers fundamental concepts of the language, from primitive types to advanced functions and error handling. These exercises were essential for consolidating my knowledge and preparing me for real-world challenges.
 
-***In this project, only raw Python was used. The idea was to implement everything using the basic concepts of Python.***
-
----
+**In this project, only raw Python was used. The idea was to implement everything using the basic concepts of Python.***
 
 ## 🧠 What I Learned
 
@@ -55,7 +54,7 @@ If you liked my work or want to know more about these exercises, feel free to co
 - 💼 LinkedIn: [Diego Felix](https://www.linkedin.com/in/diegofelix70)
 
 ---
-
+🔰 [BR] versão
 # Exercícios de Python 🐍
 
 Este repositório contém **114 exercícios** que desenvolvi enquanto aprendia Python. Cada exercício aborda conceitos fundamentais da linguagem, desde tipos primitivos até funções avançadas e tratamento de erros. Esses exercícios foram essenciais para consolidar meu conhecimento e me preparar para desafios reais.
