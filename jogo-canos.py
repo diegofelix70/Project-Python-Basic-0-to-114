@@ -20,8 +20,8 @@ BIRD_WIDTH = 40
 BIRD_HEIGHT = 30
 bird_x = 50
 bird_y = SCREEN_HEIGHT // 2
-bird_speed = 0
-gravity = 0.5 
+bird_speed = 5
+gravity = 0.5
 jump_height = -7
 
 
@@ -31,7 +31,7 @@ PIPE_HEIGHT = 400
 pipe_gap = 150
 pipe_x = SCREEN_WIDTH
 pipe_y = random.randint(100, SCREEN_HEIGHT - 100 - pipe_gap)
-pipe_speed = 3
+pipe_speed = 5
 
 # Pontuação
 score = 0
