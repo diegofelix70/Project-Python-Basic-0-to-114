@@ -31,6 +31,8 @@ sleep(1)
 print('Ken...')
 sleep(1)
 print('Pôô')
+sleep(0.3)
+
 
 print('-=-'*9)
 print(f'o computador escolheu {itens[computador]}') #Depois de ter feito uma lista, adicionando o nome da vareavel random entre chaves, aparece o nome.

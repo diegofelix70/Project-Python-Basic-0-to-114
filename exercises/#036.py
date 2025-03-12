@@ -14,9 +14,12 @@ qa = float(input('Quantidade de anos que preptende pagar? '))
 sl = float(input('Qual é o salário? '))
 
 qm = (vc / qa) / 12
-porcent = (sl / 100) * 30
+porcent = (sl / 100) * 30 #Quantidade de 30% do salário
 
 if porcent >= qm:
     print('Tem direito')
 else:
     print('Não tem direito.')
+
+print(f'{qm:.2f} Quantidade mês')
+print(f'{porcent} Porcentagem Salário')

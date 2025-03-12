@@ -8,4 +8,4 @@ print('Seu nome tem ao todo {} letras'.format(len(frase) - frase.count(' ')))
 #Para encontrar contar uma palavra dentro da frase, basta dividi-lá em uma frase e usar a linsta para contar.
 lista = frase.split() #Primeiro é criando uma função para ela.
 print(lista)
-print('A primeira letra tem {} letras.'.format(len(lista[1])))
+print('A primeira palavra tem {} letras.'.format(len(lista[1])))

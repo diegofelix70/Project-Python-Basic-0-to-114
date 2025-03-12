@@ -30,7 +30,7 @@ else:
 
 frase = input('Digite uma frase para ver ela de trás pra frente: ')
 
-palavras = frase.split().strip().upper()
+palavras = frase.split().upper()
 junto = ''.join(palavras)
 inverso = junto[:: -1]
 print(f'O inverso de {junto} é {inverso}.')
